@@ -1,0 +1,15 @@
+{
+    "author": "Max Kudosh",
+    "name": "vanilla-javascript-sample-project",
+    "description": "This is a sample project written in pure javascript. The project is built around 'cookie consent' domain. The project is a web app using some of the latest JS APIs and it has been tested in Chrome browser.",
+    "version": "0.4.2",
+    "license": "MIT",
+    "main": "startup.js",
+    "type": "module",
+    "scripts": {
+        "start": "node startup.js"
+    },
+    "devDependencies": {
+        "node-static": "^0.7.11"
+    }
+}

@@ -1,0 +1,18 @@
+.app {
+    width: 100vw;
+    height: 100vh;
+
+    padding: 100px;
+
+    background-color: #eaece5;
+}
+
+.app__cookie-consent {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+
+    padding: 10px;
+
+    background-color: #c0ded9;
+}
